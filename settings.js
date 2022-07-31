@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['18075001036,919544685703']
-global.premium = ['18075001036,919544685703']
-global.ownernomer = '18075001036,919544685703'
-global.ownername = '𝑩𝑺𝑳'
-global.botname = '𝑩𝑺𝑳 𝑺𝑬𝑹 𝑩𝑶𝑻'
+global.owner = ['94787811464,94774602004']
+global.premium = ['94787811464,94774602004']
+global.ownernomer = '94787811464,94774602004'
+global.ownername = '𝐌𝐑.𝐒𝐇𝐄𝐍𝐔'
+global.botname = '𝐌𝐑.𝐒𝐇𝐄𝐍𝐔 𝑩𝑶𝑻'
 global.footer = '©ʙꜱʟᴍᴏᴅꜱ'
 global.ig = '🌝thekot noki irunal mathi'
 global.region = 'India, South India, Kerala'
